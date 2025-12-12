@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dieuci Nsibu!
+# 👋 Hello, I'm Dieuci!
 
 🎯 I'm a self-driven developer based in Cape Town, South Africa, with a growing portfolio of projects that blend creativity, logic, and real-world impact. I'm especially interested in web development, IoT systems, and using tech to solve everyday challenges.
 
