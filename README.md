@@ -26,7 +26,7 @@
 
 Here are a few of my pinned or active repositories:
 
-- 🎮 [**Expense Tracker App**](https://github.com/DieuciND/expense-tracker) – Simple, clean web app to track expenses. Built with JS, HTML, and CSS.
+- 🎮 [**Expense Tracker App**](HTTPS://GITHUB.COM/DIEUCIND/EXPENSETRACKER) – Simple, clean web app to track expenses. Built with JS, HTML, and CSS.
 
 - 💈 [**Barber Queue Management System**](https://github.com/DieuciND) – A system to manage barber shop queues efficiently (used for technical interviews and case study demonstrations).
 
