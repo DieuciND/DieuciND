@@ -37,10 +37,10 @@ Here are some of my latest projects:
 
 ## 📚 Currently Learning
 
-- React (deep dive into building reusable components and full-stack integration)
-- TypeScript (writing safer, cleaner code for front-end apps)
-- Generative AI applications in education and business
-- JavaScript best practices & UI/UX design patterns
+- Building scalable design systems with Figma components, variables, and tokens
+- User research and usability testing to make evidence-based design decisions
+- Accessibility and inclusive design practices
+- Interaction design, prototyping, and responsive layouts
 
 ---
 
