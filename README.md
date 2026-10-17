@@ -37,10 +37,11 @@ Here are some of my latest projects:
 
 ## 📚 Currently Learning
 
-- Building scalable design systems with Figma components, variables, and tokens
-- User research and usability testing to make evidence-based design decisions
-- Accessibility and inclusive design practices
-- Interaction design, prototyping, and responsive layouts
+- Refining scalable Figma design systems with reusable components, variables, and tokens
+- Applying user research and usability testing to validate and improve design decisions
+- Integrating accessibility and inclusive design into end-to-end product workflows
+- Advancing interaction design through high-fidelity prototyping and responsive experiences
+- Using Claude Code to rapidly prototype, explore, and refine design concepts
 
 ---
 
