@@ -1,55 +1,36 @@
-# 👋 Hello, I'm Dieuci!
+# Dieuci — UI/UX Designer
 
-🎯 I'm a UI/UX designer based in Cape Town, South Africa, focused on creating thoughtful, intuitive digital experiences. I also bring a development background and enjoy exploring web development, IoT systems, and technology that solves everyday challenges.
+**Cape Town, South Africa · [dieuci.com](https://dieuci.com)**
 
----
+I design clear, thoughtful digital experiences that connect user needs with business goals. My background in development helps me collaborate closely with engineers and bring ideas into interactive prototypes.
 
-## 💻 Tech Stack & Interests
-
-**Languages & Tools:**  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Cursor-5A3EED?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
-</p>
+[View my portfolio →](https://dieuci.com)
 
 ---
 
-## 🚀 Highlight Projects
+## Selected Work
 
-Here are some of my latest projects:
+- **[Urlinq](https://www.urlinq.com/)** — A digital identity platform with shareable profiles, links, and NFC business cards.
+- **[Portfolio](https://dieuci.com)** — Selected design work and projects.
 
-- 🔗 [**Urlinq**](https://www.urlinq.com/) – A digital identity platform with shareable profiles, links, and NFC business cards.
-- 🎨 [**My Portfolio**](https://dieuci.com) – My portfolio showcasing my design work and projects.
+## Design Practice
 
----
+- Product and interaction design, from early flows to high-fidelity prototypes
+- Design systems with reusable Figma components, variables, and tokens
+- User research and usability testing to validate design decisions
+- Accessibility and inclusive design across responsive experiences
 
-## 📚 Currently Learning
+## Tools
 
-- Refining scalable Figma design systems with reusable components, variables, and tokens
-- Applying user research and usability testing to validate and improve design decisions
-- Integrating accessibility and inclusive design into end-to-end product workflows
-- Advancing interaction design through high-fidelity prototyping and responsive experiences
-- Using Claude Code and Codex to rapidly prototype, explore, and refine design concepts
+**Design:** Figma · **Prototyping:** HTML, CSS, JavaScript · **AI-assisted workflows:** Codex, Claude Code
 
----
+## Currently Exploring
 
-## 🤝 Let's Connect
+- Making design systems more scalable and consistent
+- Strengthening research-led product decisions
+- Refining accessible interaction patterns for responsive products
+- Using Codex and Claude Code to explore and iterate on interface concepts
 
-- 📫 Reach me via GitHub Issues or LinkedIn (message for link)
-- 🧪 Always open to collaboration on real-world apps or experimental ideas
+## Connect
 
----
-
-> “Code is not just what a computer understands. It's what humans can build together.”
-
-Thanks for stopping by! Don't forget to ⭐ some projects if they inspire you!
+See my work at **[dieuci.com](https://dieuci.com)** or reach me through [GitHub](https://github.com/DieuciND).
