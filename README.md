@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dieuci!
 
-🎯 I'm a self-driven developer and UI/UX designer based in Cape Town, South Africa, with a growing portfolio of projects that blend creativity, logic, and real-world impact. I'm especially interested in web development, IoT systems, and using tech to solve everyday challenges.
+🎯 I'm a UI/UX designer based in Cape Town, South Africa, focused on creating thoughtful, intuitive digital experiences. I also bring a development background and enjoy exploring web development, IoT systems, and technology that solves everyday challenges.
 
 ---
 
@@ -16,12 +16,14 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/Cursor-5A3EED?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
 </p>
+
 ---
 
 ## 🚀 Highlight Projects
@@ -44,6 +46,7 @@ Here are a few of my pinned or active repositories:
 ---
 
 ## 🤝 Let's Connect
+
 - 📫 Reach me via GitHub Issues or LinkedIn (message for link)
 - 🧪 Always open to collaboration on real-world apps or experimental ideas
 
