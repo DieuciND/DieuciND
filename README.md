@@ -1,6 +1,6 @@
 # Dieuci — UI/UX Designer
 
-**Cape Town, South Africa · [dieuci.com](https://dieuci.com)**
+**Cape Town, South Africa · dieuci.com**
 
 I design clear, thoughtful digital experiences that connect user needs with business goals. My background in development helps me collaborate closely with engineers and bring ideas into interactive prototypes.
 
@@ -11,7 +11,7 @@ I design clear, thoughtful digital experiences that connect user needs with busi
 ## Selected Work
 
 - **[Urlinq](https://www.urlinq.com/)** — A digital identity platform with shareable profiles, links, and NFC business cards.
-- **[Portfolio](https://dieuci.com)** — Selected design work and projects.
+- **Portfolio** — Selected design work and projects.
 
 ## Design Practice
 
@@ -35,4 +35,4 @@ I design clear, thoughtful digital experiences that connect user needs with busi
 
 ## Connect
 
-See my work at **[dieuci.com](https://dieuci.com)** or reach me through [GitHub](https://github.com/DieuciND).
+Reach me through [GitHub](https://github.com/DieuciND).
