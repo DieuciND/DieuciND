@@ -28,11 +28,10 @@
 
 ## 🚀 Highlight Projects
 
-Here are a few of my pinned or active repositories:
+Here are some of my latest projects:
 
-- 🎮 [**Expense Tracker App**](HTTPS://GITHUB.COM/DIEUCIND/EXPENSETRACKER) – Simple, clean web app to track expenses. Built with JS, HTML, and CSS.
-
-- 💈 [**Barber Queue Management System**](https://github.com/DieuciND) – A system to manage barber shop queues efficiently (used for technical interviews and case study demonstrations).
+- 🔗 [**Urlinq**](https://www.urlinq.com/) – A digital identity platform with shareable profiles, links, and NFC business cards.
+- 🎨 [**My Portfolio**](https://dieuci-nd.vercel.app/) – My portfolio showcasing my design work and projects.
 
 ---
 
