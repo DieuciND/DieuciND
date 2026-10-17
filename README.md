@@ -31,7 +31,7 @@
 Here are some of my latest projects:
 
 - 🔗 [**Urlinq**](https://www.urlinq.com/) – A digital identity platform with shareable profiles, links, and NFC business cards.
-- 🎨 [**My Portfolio**](https://dieuci-nd.vercel.app/) – My portfolio showcasing my design work and projects.
+- 🎨 [**My Portfolio**](https://dieuci.com) – My portfolio showcasing my design work and projects.
 
 ---
 
