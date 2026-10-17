@@ -41,7 +41,7 @@ Here are some of my latest projects:
 - Applying user research and usability testing to validate and improve design decisions
 - Integrating accessibility and inclusive design into end-to-end product workflows
 - Advancing interaction design through high-fidelity prototyping and responsive experiences
-- Using Claude Code to rapidly prototype, explore, and refine design concepts
+- Using Claude Code and Codex to rapidly prototype, explore, and refine design concepts
 
 ---
 
